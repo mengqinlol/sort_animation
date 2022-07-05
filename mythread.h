@@ -5,7 +5,7 @@
 #include <QTimer>
 #include <Windows.h>
 #include <mmsystem.h>
-//哈哈哈哈哈
+//哈哈哈哈哈hhhhhhh
 class MidiItem : public QWidget //记录音乐各个参数
 {
 public:
